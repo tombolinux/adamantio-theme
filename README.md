@@ -1,0 +1,2 @@
+adamantio-theme
+===============
