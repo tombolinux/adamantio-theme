@@ -140,7 +140,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 800px;}
+.body {clear: both; margin: 0 auto; width: 95%;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
@@ -175,17 +175,18 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
-		margin: 0 auto 2em auto;
-		padding: 0;
+		margin: 0 auto 2em -20px;
+		padding-left: 20px;
+		padding-right: 20px;
 		text-align: center;
-		width: 800px;
+		width: 100%;
 		
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 	
-	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
+	#banner nav ul {list-style: none; margin: 0 auto; width: 100%;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
 	#banner nav a:link, #banner nav a:visited {
@@ -220,7 +221,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
-	width: 760px;
+	width: 95%;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -249,7 +250,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 760px;
+	width: 95%;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -283,15 +284,15 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	/* Blogroll */
 	#extras .blogroll {
 		float: left;
-		width: 615px;
+		width: 80%;
 	}
 	
-	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
+	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 150px;}
 	
 	/* Social */
 	#extras .social {
 		float: right;
-		width: 175px;
+		width: 20%;
 	}
 	
 	#extras div[class='social'] a {
@@ -320,11 +321,12 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #about {
 	background: #fff;
 	font-style: normal;
+	margin-left: -20px;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
 	text-align: left;
-	width: 760px;
+	width: 100%;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
