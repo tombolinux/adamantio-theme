@@ -81,6 +81,24 @@ ol {
 	margin: 1em 0 1.5em 1.5em;
 }
 
+/*Sharing articles with social links inlined*/
+
+.tlsocial {
+	margin-top: 8px;
+	margin-bottom: 15px;
+	border-top: 1px solid #504E4B;
+	border-bottom: 1px solid #504E4B;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
+}
+
+.tlsocial-button {
+	float: left;
+	width: 100px;
+	height: 20px;
+}
+
 .post-info {
     float:right;
     margin:10px;
