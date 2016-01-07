@@ -12,7 +12,7 @@ v.0.3 Aggiunta social buttons
 
 ## Screenshot 1 ##
 
-![screenshot1](screenshot1.png)
+![screenshot1](screenshot1.jpg)
 
 v.0.4 Spostamento google-verification code method TAG from footer to header
 
@@ -33,7 +33,7 @@ v.0.8 Revisione delle componenti del tema per una migliore resa visiva del codic
 
 ## Screenshot 2 ##
 
-![screenshot2](screenshot2.png)
+![screenshot2](screenshot2.jpg)
 
 ## Installazione: ##
 
